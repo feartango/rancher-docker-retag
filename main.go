@@ -13,8 +13,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/joshdk/docker-retag/arguments"
 	"strings"
+
+	"github.com/joshdk/docker-retag/arguments"
 )
 
 const (
